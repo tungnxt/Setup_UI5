@@ -1,4 +1,4 @@
-# Setup_UI5
+# Setup IDE for SAP UI5
 
 > Written by Tungnx37
 > 
@@ -25,7 +25,8 @@
 <a name = "iDocumentations"></a>
 # I. Documentations
 <a name="Documentations"></a>
-
+- Setup BAS: https://help.sap.com/docs/bas/sap-business-application-studio/getting-started
+- 
 
 
  <a name ="iiSetUpEnviroment"></a>  
@@ -35,10 +36,26 @@
 ##  BAS or Visual Studio Code
 
 #### Understand SAP BAS
-What Is BAS ?  
+- What is SAP BAS ( SAP Business Application Studio )  ?
+  * SAP BAS is based on Code-OSS, an open source used for building Visual Studio Code.
+  * SAP BAS is a new SAP Business Technology Platform (SAP BTP) service that offers a modern development environment.
+  * At the heart of SAP Business Application Studio are the dev spaces. The dev spaces are comparable to isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more.
 
 
 ##  Setup SAP BAS - SAP Business Application Studio
+
+### Set Up SAP Business Application Studio for Development
+- Prerequisites: have an SAP BTP Trial account
+- Link SAP Guide: https://developers.sap.com/tutorials/appstudio-onboarding.html
+- NOTE: In step 6 maybe can't log in BAS because of role -> check 2 img below for solve this problem
+  * ![image](https://github.com/user-attachments/assets/36b35e69-043d-4795-82b3-df3ba65fc729)
+  * ![image](https://github.com/user-attachments/assets/149075b1-a540-42c7-ab19-c6f56a98ea8a)
+
+
+
+### Create a Dev Space for SAP Fiori Apps
+- Prerequisites: Done Set Up SAP Business Application Studio for Development
+- Link SAP Guide: https://developers.sap.com/tutorials/appstudio-devspace-fiori-create.html
 
 ##  Setup Visual Studio Code
 
