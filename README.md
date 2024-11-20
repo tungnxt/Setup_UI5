@@ -25,7 +25,7 @@
 <a name = "iDocumentations"></a>
 # I. Documentations
 <a name="Documentations"></a>
-- Setup BAS: https://help.sap.com/docs/bas/sap-business-application-studio/getting-started
+- SAP documentaions for BAS: https://help.sap.com/docs/bas/sap-business-application-studio/getting-started
 - App Dev using BAS by UI5: https://sapui5.hana.ondemand.com/sdk/#/topic/6bbad66475d040f39df6fbbaabe6f40f
   
   *Take a note: This is most important web will help developers when using SAP UI5: https://sapui5.hana.ondemand.com/sdk/#/*
