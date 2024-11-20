@@ -49,6 +49,7 @@
   * SAP BAS is based on Code-OSS, an open source used for building Visual Studio Code.
   * SAP BAS is a new SAP Business Technology Platform (SAP BTP) service that offers a modern development environment.
   * At the heart of SAP Business Application Studio are the dev spaces. The dev spaces are comparable to isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more.
+  
 -> In summary, BAS is an IDE provided by SAP, suitable for developing applications within the SAP ecosystem. In BAS, SAP pre-installs the necessary tools for each type of Dev Space, and SAP also offers options to select additional tools when needed.
 
 - Trial Plan Restrictions
