@@ -8,7 +8,7 @@
 - After completing this lesson, you will be able to:
   * Setup enviroment for BAS or Visual Studio code - SAP UI5
   * Understand part of BAS 
-### Mục Lục
+### Contents
 [I. Documentations ](#iDocumentations) 
 
 [II. Setup IDE ](#iiSetUpEnviroment)  
