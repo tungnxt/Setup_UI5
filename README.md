@@ -26,7 +26,11 @@
 # I. Documentations
 <a name="Documentations"></a>
 - Setup BAS: https://help.sap.com/docs/bas/sap-business-application-studio/getting-started
-- 
+- App Dev using BAS by UI5: https://sapui5.hana.ondemand.com/sdk/#/topic/6bbad66475d040f39df6fbbaabe6f40f
+  
+  *Take a note: This is most important web when dev UI5: https://sapui5.hana.ondemand.com/sdk/#/*
+-
+
 
 
  <a name ="iiSetUpEnviroment"></a>  
@@ -40,19 +44,28 @@
   * SAP BAS is based on Code-OSS, an open source used for building Visual Studio Code.
   * SAP BAS is a new SAP Business Technology Platform (SAP BTP) service that offers a modern development environment.
   * At the heart of SAP Business Application Studio are the dev spaces. The dev spaces are comparable to isolated virtual machines in the cloud containing tailored tools and preinstalled runtimes per business scenario, such as SAP Fiori, SAP S/4HANA extensions, Workflow, Mobile and more.
+-> In summary, BAS is an IDE provided by SAP, suitable for developing applications within the SAP ecosystem. In BAS, SAP pre-installs the necessary tools for each type of Dev Space, and SAP also offers options to select additional tools when needed.
 
+- Trial Plan Restrictions
+![image](https://github.com/user-attachments/assets/d4046ca5-29d3-4348-9876-62796cdc1eec)
+
+#### SAP BAS vs Visual Studio code
 
 ##  Setup SAP BAS - SAP Business Application Studio
 
 ### Set Up SAP Business Application Studio for Development
 - Prerequisites: have an SAP BTP Trial account
 - Link SAP Guide: https://developers.sap.com/tutorials/appstudio-onboarding.html
+
+  *Here is the link with an interface that is a bit old, but the steps are still the same.*
 - NOTE: In step 6 maybe can't log in BAS because of role -> check 2 img below for solve this problem
   * ![image](https://github.com/user-attachments/assets/36b35e69-043d-4795-82b3-df3ba65fc729)
   * ![image](https://github.com/user-attachments/assets/149075b1-a540-42c7-ab19-c6f56a98ea8a)
 ### Create a Dev Space for SAP Fiori Apps
 - Prerequisites: Done Set Up SAP Business Application Studio for Development
 - Link SAP Guide: https://developers.sap.com/tutorials/appstudio-devspace-fiori-create.html
+
+    *Here is the link with an interface that is a bit old, but the steps are still the same.*
 - NOTE: In step 1, image 5, these are the tools provided by SAP as optional. Depending on the purpose, can choose the appropriate tools to use for the Dev Space. For learning purposes, it is recommended to select all the tools.
 
 ##  Setup Visual Studio Code
