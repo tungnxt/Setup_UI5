@@ -23,7 +23,7 @@
 
 
 <a name = "iDocumentations"></a>
-# I.Documentations
+# I. Documentations
 <a name="Documentations"></a>
 
 
@@ -32,10 +32,10 @@
 # II. Setup enviroment 
  <a name="Setup enviroment"></a>  
 
- #  BAS or Visual Studio Code
+##  BAS or Visual Studio Code
 
- #  Setup SAP BAS - SAP Business Application Studio
+##  Setup SAP BAS - SAP Business Application Studio
 
- #  Setup Visual Studio Code
+##  Setup Visual Studio Code
 
-#  Final
+##  Final
