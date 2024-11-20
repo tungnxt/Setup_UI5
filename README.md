@@ -50,13 +50,13 @@
 - NOTE: In step 6 maybe can't log in BAS because of role -> check 2 img below for solve this problem
   * ![image](https://github.com/user-attachments/assets/36b35e69-043d-4795-82b3-df3ba65fc729)
   * ![image](https://github.com/user-attachments/assets/149075b1-a540-42c7-ab19-c6f56a98ea8a)
-
-
-
 ### Create a Dev Space for SAP Fiori Apps
 - Prerequisites: Done Set Up SAP Business Application Studio for Development
 - Link SAP Guide: https://developers.sap.com/tutorials/appstudio-devspace-fiori-create.html
+- NOTE: In step 1, image 5, these are the tools provided by SAP as optional. Depending on the purpose, can choose the appropriate tools to use for the Dev Space. For learning purposes, it is recommended to select all the tools.
 
 ##  Setup Visual Studio Code
+- Tomorrow release
 
 ##  Final
+- Tomorrow release
