@@ -13,13 +13,13 @@
 
 [II. Setup IDE ](#iiSetUpEnviroment)  
 
-- [2.1. BAS or Visual Studio Code](#BAS-or-Visual-Studio-Code)
+- [2.1. BAS or Visual Studio Code](#2.1-BAS-or-Visual-Studio-Code)
 
-- [2.2. Setup SAP BAS - SAP Business Application Studio ](#Setup-SAP-BAS---SAP-Business-Application-Studio)
+- [2.2. Setup SAP BAS - SAP Business Application Studio ](#2.2-Setup-SAP-BAS---SAP-Business-Application-Studio)
  
-- [2.3. Setup Visual Studio Code](#Setup-Visual-Studio-Code)
+- [2.3. Setup Visual Studio Code](#2.3-Setup-Visual-Studio-Code)
 
-- [2.4. Final](#Final)
+- [2.4. Final](#2.4-Final)
 
 
 <a name = "iDocumentations"></a>
