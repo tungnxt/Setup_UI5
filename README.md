@@ -29,7 +29,7 @@
 
 
  <a name ="iiSetUpEnviroment"></a>  
-# II. Setup enviroment 
+# II. Setup IDE 
  <a name="Setup enviroment"></a>  
 
 ##  BAS or Visual Studio Code
