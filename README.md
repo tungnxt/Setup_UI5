@@ -1,6 +1,6 @@
 # Setup_UI5
 
-> Written by Tungnx
+> Written by Tungnx37
 > 
 > 20/11/2024
 > 
@@ -33,6 +33,10 @@
  <a name="Setup enviroment"></a>  
 
 ##  BAS or Visual Studio Code
+
+#### Understand SAP BAS
+What Is BAS ?  
+
 
 ##  Setup SAP BAS - SAP Business Application Studio
 
